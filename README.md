@@ -2,6 +2,7 @@
 A 65% keyboard with fully custom parts designed using KiCAD and Solidworks. Made with a resin case, aluminum switch plate and soldered Epomaker silent keyswitches. 
 features:
 - 65% QWERTY layout
+- Sandwich style assembly
 - 7U spacebar
 - Plate-mounted switches
 - Custom PCB
