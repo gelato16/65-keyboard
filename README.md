@@ -19,3 +19,4 @@ PCB photos:
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
+(files with numbers ex:open2, are progress works.)
