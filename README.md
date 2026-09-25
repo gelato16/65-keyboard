@@ -18,3 +18,4 @@ PCB photos:
 <img width="1376" height="936" alt="Screenshot 2026-09-23 134752" src="https://github.com/user-attachments/assets/c899a03e-4a9b-4658-b632-a7a24c2c175c" />
 
 All designs complete, assembly ongoing
+(designed using Kicad, Solidworks and sketchbook)
