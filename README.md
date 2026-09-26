@@ -25,6 +25,29 @@ Pictures of assembly design process below:
 
 Bill of materials:
 https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3TIsw/edit?usp=sharing 
+Id	Designator	footprint 	quantity 	designation	link
+1	MX1-MX69	SW_MX_HS_CPG151101S11_1u	69	MX_SW_HS	N/A
+2	U1	LQFP-48_7x7mm_P0.5mm	1	STM32F072CBT6	https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F072CBT6/4815292
+3	C1, C3, C4, C5, C6	C_1206_3126Metric	7	100nF	https://www.digikey.com/en/products/detail/kemet/C1206C104KARACTU/992167
+4	C9, C10	C_1206_3126Metric	2	1uF	https://www.digikey.ca/en/products/detail/yageo/CC1206KKX7R7BB105/302915
+5	R1 - R4	R_1206_3126Metric	4	5.1k	https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT5K10/1759499
+6	BOOT1, RST1	SW_SPST_TL3342	2	SW_SPST	https://jlcpcb.com/partdetail/ESwitch-TL3342F260QG/C2886894
+7	J1	USB_C_Receptacle_HRO_TYPE-C-31-M-12	1	USB_C_Receptacle_USB2.0	https://jlcpcb.com/partdetail/C9900015525
+8	F1	Fuse_1206_3216Metric	1	500mA	https://www.lcsc.com/product-detail/C135341.html
+9	U5	C_0402_1005Metric	1	TXB0101	https://www.lcsc.com/product-detail/C324081.html
+10	U3	SOT-23	1	XC6206PxxxMR-Regulator_Linear	https://www.lcsc.com/product-detail/C5446.html
+11	D1-D69	D_SOD-123	69	D_small	https://www.digikey.ca/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/1N4148W/21853071
+12	U2	SOT-143	1	PRTR5V0U2X	https://www.digikey.ca/en/products/detail/nexperia-usa-inc/PRTR5V0U2X-215/1163690
+13	C2	C_1206_3216Metric	1	10uF	https://www.digikey.ca/en/products/detail/kemet/C1206C106K8RACTU/1090842
+14	C43, C44	C_1206_3216Metric	2	0.1uF	https://www.digikey.ca/en/products/detail/tdk/C3216X7R2A104M160AA/513969
+15	J2	PinHeader_1x05_P2.54mm_Vertical	1	Conn_01x05	https://www.digikey.ca/en/products/detail/harwin-inc/M20-9990546/3728232
+16	J3	PinHeader_1x06_P2.54mm_Vertical	1	Conn_01x06	https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PEC06SAFN/859339
+					
+Physical:					
+Id	Name	quantity	link		
+1	EPOMAKER Roseveil Silent Switch Set	1	https://epomaker.ca/products/epomaker-roseveil-silent-switch-set?_pos=3&_sid=4f9293093&_ss=r 		
+2	DUROCK Plate Mount Stabilizer V3	1	https://www.amazon.ca/dp/B0CTHT34MJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1		
+3	dagaladoo Coffee Cat 140key keycaps,XDA Profile,dye Sublimation PBT Custom keycap with Key Puller for Gateron MX Switch	1	https://www.amazon.ca/dp/B0CF1ZS6D4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1		
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
