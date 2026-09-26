@@ -55,5 +55,6 @@ All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
 (files with numbers ex:open2, are completed(not verified works.)
 
-Known issues: None
-Credits: My father for introducing me to all this
+Known issues: None, 
+Credits: My father for introducing me to all this. 
+Sanity checked by my lovely best friend & my tech teacher 
