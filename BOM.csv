@@ -1,6 +1,6 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
 1;"MX45,MX32,MX1,MX42,MX51,MX24,MX18,MX21,MX25,MX48,MX3,MX12,MX33,MX31,MX10,MX11,MX67,MX59,MX29,MX41,MX39,MX30,MX40,MX9,MX34,MX50,MX37,MX61,MX2,MX64,MX13,MX4,MX47,MX6,MX66,MX28,MX57,MX65,MX63,MX62,MX8,MX60,MX36,MX54,MX38,MX53,MX46,MX5,MX55,MX23,MX43,MX56,MX58,MX16,MX17,MX26,MX14,MX52,MX44,MX20,MX15,MX68,MX19,MX22,MX35,MX69,MX7,MX49,MX27";"SW_MX_1u";69;"MX_SW_solder";;;
-2;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F072CBT6";;; https://www.lcsc.com/product-detail/C81720.html
+2;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F072CBT6";;; https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F072CBT6/4815292
 3;"C6,C3,C4,C5,C7,C8,C1";"C_0402_1005Metric";7;"100nF";;; https://www.lcsc.com/product-detail/C307331.html
 4;"C9,C10";"C_0402_1005Metric";2;"1uF";;; https://www.lcsc.com/product-detail/C307331.html
 5;"R2,R3,R1,R4";"R_0402_1005Metric";4;"5.1k";;; https://www.lcsc.com/product-detail/C25905.html
