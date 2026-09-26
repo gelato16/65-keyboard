@@ -53,7 +53,7 @@ https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3T
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
-(files with numbers ex:open2, are progress works.)
+(files with numbers ex:open2, are completed(not verified works.)
 
 Known issues: None
 Credits: My father for introducing me to all this
