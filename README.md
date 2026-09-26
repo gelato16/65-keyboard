@@ -23,8 +23,8 @@ this is a sandwich style keyboard, meaning it is assembled in layers into a main
 Pictures of assembly design process below: 
 <img width="1090" height="390" alt="image" src="https://github.com/user-attachments/assets/360135db-9f00-4a4c-987c-7e2b63983f19" />
 
-
-
+Bill of materials:
+https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3TIsw/edit?usp=sharing 
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
