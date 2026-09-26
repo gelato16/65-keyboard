@@ -50,13 +50,10 @@ https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3T
 | 2         | DUROCK Plate Mount Stabilizer V3                                                                                        | 1                                   | https://www.amazon.ca/dp/B0CTHT34MJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1                    |                               |                                                                                               |
 | 3         | dagaladoo Coffee Cat 140key keycaps,XDA Profile,dye Sublimation PBT Custom keycap with Key Puller for Gateron MX Switch | 1                                   | https://www.amazon.ca/dp/B0CF1ZS6D4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1                    |                               |                                                                                               |
 
-					
-Physical:					
-Id	Name	quantity	link		
-1	EPOMAKER Roseveil Silent Switch Set	1	https://epomaker.ca/products/epomaker-roseveil-silent-switch-set?_pos=3&_sid=4f9293093&_ss=r 		
-2	DUROCK Plate Mount Stabilizer V3	1	https://www.amazon.ca/dp/B0CTHT34MJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1		
-3	dagaladoo Coffee Cat 140key keycaps,XDA Profile,dye Sublimation PBT Custom keycap with Key Puller for Gateron MX Switch	1	https://www.amazon.ca/dp/B0CF1ZS6D4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1		
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
 (files with numbers ex:open2, are progress works.)
+
+Known issues: None
+Credits: My father for introducing me to all this
